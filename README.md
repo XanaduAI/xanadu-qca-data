@@ -1,5 +1,6 @@
 # Quantum-advantage data
-
+This repository contains a reference to the data referred by Nature paper (link TBD).
+Data is publicly hosted in an s3 bucket and can be downloaded via the `download_data.py` python utility.
 
 ## Directories
 
